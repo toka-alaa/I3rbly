@@ -38,7 +38,15 @@ class _InfoIconState extends State<InfoIcon> {
                       },
                     ),
                   ),
-                  Text("# put your help text here",
+                  Text("""
+                 \n بعض المعلومات حول اعربلي :
+1. لتفادي الأخطاء يرجى كتابة الجملة بلغةٍ عربيةٍ صحيحة. \n
+ \n2. اعربلي حصل علي نسبة إعراب صحيح ب 99.6% (جمل عربية صحيحة 100%)
+3. اعربلي قائم سيرفر ضعيف لذلك عندما يكون هنالك ضغط قوي علي الموقع سيتم تحويل الاعراب اللي موديل اقل ذكائا (يأتي بنسبة اعراب صحيح 64%) \n
+                  
+           Developed by Youssef pplo \n
+           Designed by Toka Alaa
+                  """,
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 15,
