@@ -44,8 +44,8 @@ class _InfoIconState extends State<InfoIcon> {
  \n2. اعربلي حصل علي نسبة إعراب صحيح ب 99.6% (جمل عربية صحيحة 100%)
 3. اعربلي قائم سيرفر ضعيف لذلك عندما يكون هنالك ضغط قوي علي الموقع سيتم تحويل الاعراب اللي موديل اقل ذكائا (يأتي بنسبة اعراب صحيح 64%) \n
                   
-           Developed by Youssef pplo \n
-           Designed by Toka Alaa
+         🧠   Developed Model by Youssef pplo \n
+         📱   Developed App by Toka Alaa
                   """,
                     style: TextStyle(
                       color: Colors.white,
